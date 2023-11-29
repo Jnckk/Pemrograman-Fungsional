@@ -1,4 +1,4 @@
 pip install matplotlib
 pip install scipy
 
-"run di terminal"
+"copas & run di terminal"
