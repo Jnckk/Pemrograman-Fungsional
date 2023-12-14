@@ -1,0 +1,5 @@
+1. Buka gambar menggunakan Pillow.
+2. Ubah tingkat kecerahan menjadi 1.5 kali lipat dan tingkat kontras menjadi 1.2 kali
+lipat.
+3. Simpan gambar hasil edit dengan nama "brightness_contrast_image.jpg".
+4. Tampilkan hasilnya

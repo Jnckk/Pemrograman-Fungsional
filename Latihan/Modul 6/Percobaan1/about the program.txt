@@ -1,0 +1,8 @@
+1. Buka gambar menggunakan Pillow.
+2. Ubah gambar menjadi hitam-putih (grayscale).
+3. Tambahkan teks berisikan nama dan NIM kalian di tengah gambar dengan font
+Arial dan ukuran 24. Sebelumnya jangan lupa unduh terlebih dahulu font yang
+kamu gunakan ya, lalu panggil sesuai dengan direktori tempat kamu menyimpan
+hasil unduhan.
+4. Simpan gambar hasil edit dengan nama "percobaan_satu.jpg".
+5. Tampilkan hasil pengolahan gambar kalian.

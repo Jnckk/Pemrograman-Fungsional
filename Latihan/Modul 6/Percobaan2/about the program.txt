@@ -1,0 +1,15 @@
+Anda memiliki dua gambar:
+● gambar latar belakang (background image) berupa pemandangan/environment
+dan
+● gambar objek yang ingin disisipkan (overlay image).
+
+Anda ingin menyisipkan gambar kedua ke dalam gambar pertama menggunakan library
+Pillow:
+1. Buka gambar latar belakang (background) dan gambar yang ingin disisipkan
+(overlay)
+2. Konversi overlay image ke mode RGB (menghilangkan alpha channel)
+3. (Optional) Perkecil ukuran gambar overlay menggunakan method resize()
+4. Sisipkan gambar overlay ke dalam gambar background menggunakan method
+paste()
+5. Simpan gambar hasil edit
+6. Tampilkan hasil edit gambar
